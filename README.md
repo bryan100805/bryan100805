@@ -46,4 +46,7 @@
   <a href="https://www.linkedin.com/in/bryan-tan-wen-tao-843b27272/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
     </a>
+  <a href="https://www.instagram.com/bryan100805/">
+        <img src="https://img.shields.io/badge/instagram-pink?style=for-the-badge&logo=instagram" alt="Instagram">
+    </a>
 </p>
