@@ -41,16 +41,16 @@
 ### ✨ Statistics
 <p align="center">
   <a href="https://github.com/bryan100805">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bryan100805&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bryan100805&theme=prussian" />
   </a>
   <a href="https://github.com/bryan100805">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bryan100805&hide_border=true&card_width=338&theme=transparent" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bryan100805&hide_border=true&card_width=338&theme=prussian" />
   </a>
   <a href="https://github.com/bryan100805">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bryan100805&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bryan100805&theme=prussian" />
   </a>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryan100805&theme=transparent&layout=compact"/>
-<img src="https://github-profile-trophy.vercel.app/?username=bryan100805&theme=transparent&column=4" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryan100805&theme=prussian&layout=compact"/>
+<img src="https://github-profile-trophy.vercel.app/?username=bryan100805&theme=prussian&column=4" />
 <br>
 </p>
 
