@@ -55,7 +55,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=bryan100805&include_all_commits=true&theme=prussian" />
   </a>
   <a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryan100805&theme=prussian&layout=compact"/>
+    <img width=600px src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryan100805&theme=prussian&layout=compact"/>
   </a>
 </p>
 <p align='center'>
