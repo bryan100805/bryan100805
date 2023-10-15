@@ -31,25 +31,28 @@
 [![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
 [![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)](https://www.mysql.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)](https://www.mongodb.com/)
+[![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white)](https://www.sqlite.org/)
 
 ### 📊 Graphical Software
 [![Minitab](https://img.shields.io/badge/Minitab-%23266996.svg?style=for-the-badge&logo=Minitab&logoColor=white)](https://support.minitab.com/en-us/minitab/21/getting-started/)
 [![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white)](https://www.tableau.com/)
 [![Excel](https://img.shields.io/badge/Excel-%232167B4.svg?style=for-the-badge&logo=Microsoft%20Excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
 
+### ⚙️ Software Development
+[![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=Git&logoColor=white)](https://git-scm.com/)
+[![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=Node.js&logoColor=white)](https://nodejs.org/)
+
 
 ### ✨ Statistics
 <p align="center">
-  <div>
-    <a href="https://github.com/bryan100805">
+  <a href="https://github.com/bryan100805">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bryan100805&theme=prussian" />
-    </a>
-  </div>
-  <a>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bryan100805&hide_border=true&card_width=338&theme=prussian" />
   </a>
   <a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=bryan100805&include_all_commits=true&theme=prussian" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bryan100805&hide_border=true&card_width=338&theme=prussian" />
+  </a>
+  <a>
+    <img src="https://github-readme-stats.vercel.app/api?username=bryan100805&include_all_commits=true&theme=prussian" />
   </a>
   <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryan100805&theme=prussian&layout=compact"/>
