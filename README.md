@@ -54,12 +54,12 @@
   <a>
     <img src="https://github-readme-stats.vercel.app/api?username=bryan100805&include_all_commits=true&theme=prussian" />
   </a>
-  <div>
+  <a>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryan100805&theme=prussian&layout=compact"/>
-  </div>
-  <div>
-    <img src="https://github-profile-trophy.vercel.app/?username=bryan100805&theme=prussian&column=4" />
-  </div>
+  </a>
+  <a>
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=bryan100805&theme=prussian&column=4" />
+  </a>
 <br>
 </p>
 
