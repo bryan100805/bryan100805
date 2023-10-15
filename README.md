@@ -15,6 +15,7 @@
 [![SciPy](https://img.shields.io/badge/SciPy-%238CAAE6.svg?style=for-the-badge&logo=SciPy&logoColor=white)](https://www.scipy.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
 [![Statsmodels](https://img.shields.io/badge/Statsmodels-%233A3A3A.svg?style=for-the-badge&logo=Python&logoColor=white)](https://www.statsmodels.org/stable/index.html)
+[![pmdarima](https://img.shields.io/badge/pmdarima-%23003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white)](https://github.com/alkaline-ml/pmdarima)
 [![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=OpenCV&logoColor=white)](https://opencv.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org/)
