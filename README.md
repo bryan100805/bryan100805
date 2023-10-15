@@ -40,17 +40,23 @@
 
 ### ✨ Statistics
 <p align="center">
-  <a href="https://github.com/bryan100805">
+  <div>
+    <a href="https://github.com/bryan100805">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bryan100805&theme=prussian" />
+    </a>
+  </div>
+  <a>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bryan100805&hide_border=true&card_width=338&theme=prussian" />
   </a>
-  <a href="https://github.com/bryan100805">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bryan100805&hide_border=true&card_width=338&theme=prussian" />
+  <a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=bryan100805&include_all_commits=true&theme=prussian" />
   </a>
-  <a href="https://github.com/bryan100805">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bryan100805&theme=prussian" />
-  </a>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryan100805&theme=prussian&layout=compact"/>
-<img src="https://github-profile-trophy.vercel.app/?username=bryan100805&theme=prussian&column=4" />
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryan100805&theme=prussian&layout=compact"/>
+  </div>
+  <div>
+    <img src="https://github-profile-trophy.vercel.app/?username=bryan100805&theme=prussian&column=4" />
+  </div>
 <br>
 </p>
 
