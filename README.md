@@ -57,10 +57,11 @@
   <a>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryan100805&theme=prussian&layout=compact"/>
   </a>
+</p>
+<p align='center'>
   <a>
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=bryan100805&theme=prussian&column=4" />
+    <img src="https://github-profile-trophy.vercel.app/?username=bryan100805&theme=prussian&column=4" />
   </a>
-<br>
 </p>
 
 ### 🔗 Connect With Me
