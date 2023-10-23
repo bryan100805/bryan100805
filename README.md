@@ -46,8 +46,6 @@
 ### ⚙️ Software Development
 [![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=Git&logoColor=white)](https://git-scm.com/)
 [![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=Node.js&logoColor=white)](https://nodejs.org/)
-![Agile](https://img.shields.io/badge/Agile-Yes-brightgreen?style=for-the-badge)
-![DevOps](https://img.shields.io/badge/DevOps-Yes-blue?style=for-the-badge)
 
 ### ✨ Statistics
 <p align="center">
