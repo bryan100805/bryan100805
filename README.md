@@ -30,6 +30,7 @@
 [![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=Express&logoColor=white)](https://expressjs.com/)
 [![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=Flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![Jinja](https://img.shields.io/badge/Jinja-%232D2D2D.svg?style=for-the-badge&logo=Jinja&logoColor=white)](https://jinja.palletsprojects.com/)
+[![Bokeh](https://img.shields.io/badge/Bokeh-%23F4B300.svg?style=for-the-badge&logo=Bokeh&logoColor=white)](https://bokeh.org/)
 
 ### 🛢️Database
 [![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
