@@ -27,6 +27,7 @@
 [![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=React&logoColor=white)](https://reactjs.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=Next.js&logoColor=white)](https://nextjs.org/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![Tkinter](https://img.shields.io/badge/Tkinter-%23FFD700.svg?style=for-the-badge&logo=Python&logoColor=white)](https://docs.python.org/3/library/tkinter.html)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%23006DB7.svg?style=for-the-badge&logo=Tailwind%20CSS&logoColor=white)](https://tailwindcss.com/)
