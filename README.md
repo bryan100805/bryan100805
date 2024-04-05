@@ -29,7 +29,6 @@
 [![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=React&logoColor=white)](https://reactjs.org/)
 [![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=Next.js&logoColor=white)](https://nextjs.org/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![Tkinter](https://img.shields.io/badge/Tkinter-%23FFD700.svg?style=for-the-badge&logo=Python&logoColor=white)](https://docs.python.org/3/library/tkinter.html)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%23006DB7.svg?style=for-the-badge&logo=Tailwind%20CSS&logoColor=white)](https://tailwindcss.com/)
 [![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=Express&logoColor=white)](https://expressjs.com/)
 [![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=Flask&logoColor=white)](https://flask.palletsprojects.com/)
@@ -48,6 +47,12 @@
 [![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white)](https://www.tableau.com/)
 [![Excel](https://img.shields.io/badge/Excel-%232167B4.svg?style=for-the-badge&logo=Microsoft%20Excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
 [![UiPath](https://img.shields.io/badge/UiPath-%233781DA.svg?style=for-the-badge&logo=UiPath&logoColor=white)](https://www.uipath.com/)
+
+### ☁️ Cloud Computing Services
+[![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-%23FF9900.svg?style=for-the-badge&logo=Amazon%20AWS&logoColor=white)](https://aws.amazon.com/lambda/)
+[![AWS S3](https://img.shields.io/badge/AWS_S3-%23232F3E.svg?style=for-the-badge&logo=Amazon%20AWS&logoColor=white)](https://aws.amazon.com/s3/)
+[![CloudFront](https://img.shields.io/badge/CloudFront-%23232F3E.svg?style=for-the-badge&logo=Amazon%20AWS&logoColor=white)](https://aws.amazon.com/cloudfront/)
+[![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
 
 ### ⚙️ Software Development
 [![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=Git&logoColor=white)](https://git-scm.com/)
