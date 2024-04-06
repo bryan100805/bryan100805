@@ -22,8 +22,9 @@
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org/)
 [![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)](https://keras.io/)
+[![LangChain](https://img.shields.io/badge/LangChain-007ACC.svg?style=for-the-badge&logo=none&labelColor=gray)](https://www.langchain.com/)
 
-### 🌐 Web Development/GUI
+### 🌐 Web Development
 [![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=React&logoColor=white)](https://reactjs.org/)
