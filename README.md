@@ -50,7 +50,7 @@
 [![UiPath](https://img.shields.io/badge/UiPath-%233781DA.svg?style=for-the-badge&logo=UiPath&logoColor=white)](https://www.uipath.com/)
 
 ### ☁️ Cloud Computing Services
-[![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=Amazon%20AWS&logoColor=white)](https://aws.amazon.com/)
+[![Amazon Web Services](https://img.shields.io/badge/Amazon_Web_Services-%23232F3E.svg?style=for-the-badge&logo=Amazon%20AWS&logoColor=white)](https://aws.amazon.com/)
 [![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-%23FF9900.svg?style=for-the-badge&logo=Amazon%20AWS&logoColor=white)](https://aws.amazon.com/lambda/)
 [![AWS S3](https://img.shields.io/badge/AWS_S3-%23232F3E.svg?style=for-the-badge&logo=Amazon%20AWS&logoColor=white)](https://aws.amazon.com/s3/)
 [![CloudFront](https://img.shields.io/badge/CloudFront-%23232F3E.svg?style=for-the-badge&logo=Amazon%20AWS&logoColor=white)](https://aws.amazon.com/cloudfront/)
