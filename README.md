@@ -50,13 +50,13 @@
 [![UiPath](https://img.shields.io/badge/UiPath-%233781DA.svg?style=for-the-badge&logo=UiPath&logoColor=white)](https://www.uipath.com/)
 
 ### ☁️ Cloud Computing Services
-[![AWS AppStream 2.0](https://img.shields.io/badge/AWS_AppStream_2.0-%23232F3E.svg?style=for-the-badge&logo=Amazon%20AWS&logoColor=white)](https://aws.amazon.com/appstream2/)
+[![AWS AppStream 2.0](https://img.shields.io/badge/AWS_AppStream_2.0-%230088FF.svg?style=for-the-badge&logo=Amazon%20AWS&logoColor=white)](https://aws.amazon.com/appstream2/)
 [![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-%23FF9900.svg?style=for-the-badge&logo=Amazon%20AWS&logoColor=white)](https://aws.amazon.com/lambda/)
-[![AWS S3](https://img.shields.io/badge/AWS_S3-%23232F3E.svg?style=for-the-badge&logo=Amazon%20AWS&logoColor=white)](https://aws.amazon.com/s3/)
-[![CloudFront](https://img.shields.io/badge/CloudFront-%23232F3E.svg?style=for-the-badge&logo=Amazon%20AWS&logoColor=white)](https://aws.amazon.com/cloudfront/)
-[![AWS API Gateway](https://img.shields.io/badge/AWS_API_Gateway-%23232F3E.svg?style=for-the-badge&logo=Amazon%20AWS&logoColor=white)](https://aws.amazon.com/api-gateway/)
-[![AWS EC2](https://img.shields.io/badge/AWS_EC2-%23232F3E.svg?style=for-the-badge&logo=Amazon%20AWS&logoColor=white)](https://aws.amazon.com/ec2/)
-[![AWS OpenSearch](https://img.shields.io/badge/AWS_OpenSearch-%23232F3E.svg?style=for-the-badge&logo=Amazon%20AWS&logoColor=white)](https://aws.amazon.com/opensearch-service/)
+[![AWS S3](https://img.shields.io/badge/AWS_S3-%2345BF3E.svg?style=for-the-badge&logo=Amazon%20AWS&logoColor=white)](https://aws.amazon.com/s3/)
+[![CloudFront](https://img.shields.io/badge/CloudFront-%237A00FF.svg?style=for-the-badge&logo=Amazon%20AWS&logoColor=white)](https://aws.amazon.com/cloudfront/)
+[![AWS API Gateway](https://img.shields.io/badge/AWS_API_Gateway-%2300B3A4.svg?style=for-the-badge&logo=Amazon%20AWS&logoColor=white)](https://aws.amazon.com/api-gateway/)
+[![AWS EC2](https://img.shields.io/badge/AWS_EC2-%23FF5733.svg?style=for-the-badge&logo=Amazon%20AWS&logoColor=white)](https://aws.amazon.com/ec2/)
+[![AWS OpenSearch](https://img.shields.io/badge/AWS_OpenSearch-%23FFD700.svg?style=for-the-badge&logo=Amazon%20AWS&logoColor=white)](https://aws.amazon.com/opensearch-service/)
 [![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
 
 ### ⚙️ Software Development
