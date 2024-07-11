@@ -52,7 +52,8 @@
 ### ☁️ Cloud Computing Services
 [![AWS AppStream 2.0](https://img.shields.io/badge/AWS_AppStream_2.0-%230088FF.svg?style=for-the-badge&logo=Amazon%20AWS&logoColor=white)](https://aws.amazon.com/appstream2/)
 [![CloudFront](https://img.shields.io/badge/CloudFront-%237A00FF.svg?style=for-the-badge&logo=Amazon%20AWS&logoColor=white)](https://aws.amazon.com/cloudfront/)
-[![AWS API Gateway](https://img.shields.io/badge/AWS_API_Gateway-%2300B3A4.svg?style=for-the-badge&logo=Amazon%20AWS&logoColor=white)](https://aws.amazon.com/api-gateway/)
+[![AWS API Gateway](https://img.shields.io/badge/AWS_API_Gateway-%23FF4F8B.svg?style=for-the-badge&logo=amazonapigateway&logoColor=white)](https://aws.amazon.com/api-gateway/)
+[![AWS DynamoDB](https://img.shields.io/badge/AWS_DynamoDB-%234053D6.svg?style=for-the-badge&logo=amazondynamodb&logoColor=white)](https://docs.aws.amazon.com/dynamodb/)
 [![AWS EC2](https://img.shields.io/badge/AWS_EC2-%23FF9900.svg?style=for-the-badge&logo=amazonec2&logoColor=white)](https://aws.amazon.com/ec2/)
 [![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-%23FF9900.svg?style=for-the-badge&logo=awslambda&logoColor=white)](https://aws.amazon.com/lambda/)
 [![AWS S3](https://img.shields.io/badge/AWS_S3-%23569A31.svg?style=for-the-badge&logo=amazons3&logoColor=white)](https://aws.amazon.com/s3/)
