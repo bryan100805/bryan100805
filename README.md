@@ -46,7 +46,7 @@
 ### 📊 Graphical Software/RPA
 [![Minitab](https://img.shields.io/badge/Minitab-%23266996.svg?style=for-the-badge&logo=Minitab&logoColor=white)](https://support.minitab.com/en-us/minitab/21/getting-started/)
 [![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white)](https://www.tableau.com/)
-[![Excel](https://img.shields.io/badge/Excel-%232167B4.svg?style=for-the-badge&logo=Microsoft%20Excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
+[![Excel](https://img.shields.io/badge/Excel-%232167B4.svg?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
 [![UiPath](https://img.shields.io/badge/UiPath-%233781DA.svg?style=for-the-badge&logo=UiPath&logoColor=white)](https://www.uipath.com/)
 
 ### ☁️ Cloud Computing Services
