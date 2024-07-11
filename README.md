@@ -51,7 +51,7 @@
 
 ### ☁️ Cloud Computing Services
 [![AWS AppStream 2.0](https://img.shields.io/badge/AWS_AppStream_2.0-%230088FF.svg?style=for-the-badge&logo=Amazon%20AWS&logoColor=white)](https://aws.amazon.com/appstream2/)
-[![CloudFront](https://img.shields.io/badge/CloudFront-%237A00FF.svg?style=for-the-badge&logo=Amazon%20AWS&logoColor=white)](https://aws.amazon.com/cloudfront/)
+[![CloudFront](https://img.shields.io/badge/AWS_CloudFront-%237A00FF.svg?style=for-the-badge&logo=amazoncloudfront%20AWS&logoColor=white)](https://aws.amazon.com/cloudfront/)
 [![AWS API Gateway](https://img.shields.io/badge/AWS_API_Gateway-%23FF4F8B.svg?style=for-the-badge&logo=amazonapigateway&logoColor=white)](https://aws.amazon.com/api-gateway/)
 [![AWS DynamoDB](https://img.shields.io/badge/AWS_DynamoDB-%234053D6.svg?style=for-the-badge&logo=amazondynamodb&logoColor=white)](https://docs.aws.amazon.com/dynamodb/)
 [![AWS EC2](https://img.shields.io/badge/AWS_EC2-%23FF9900.svg?style=for-the-badge&logo=amazonec2&logoColor=white)](https://aws.amazon.com/ec2/)
