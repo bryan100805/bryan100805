@@ -57,8 +57,8 @@
 [![AWS EC2](https://img.shields.io/badge/AWS_EC2-%23FF9900.svg?style=for-the-badge&logo=amazonec2&logoColor=white)](https://aws.amazon.com/ec2/)
 [![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-%23FF9900.svg?style=for-the-badge&logo=awslambda&logoColor=white)](https://aws.amazon.com/lambda/)
 [![AWS S3](https://img.shields.io/badge/AWS_S3-%23569A31.svg?style=for-the-badge&logo=amazons3&logoColor=white)](https://aws.amazon.com/s3/)
-[![AWS OpenSearch](https://img.shields.io/badge/AWS_OpenSearch-%23FFD700.svg?style=for-the-badge&logo=Amazon%20AWS&logoColor=white)](https://aws.amazon.com/opensearch-service/)
-[![Microsoft Azure](https://img.shields.io/badge/-Microsoft Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
+[![AWS OpenSearch](https://img.shields.io/badge/AWS_OpenSearch-%23FFD700.svg?style=for-the-badge&logo=amazonopensearch&logoColor=white)](https://aws.amazon.com/opensearch-service/)
+[![Microsoft Azure](https://img.shields.io/badge/Microsoft Azure-%0078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
 
 ### ⚙️ Software Development
 [![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=Git&logoColor=white)](https://git-scm.com/)
